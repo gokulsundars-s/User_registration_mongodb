@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "mongodb": "^5.3.0",
+    "mongojs": "^3.1.0",
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "nodedb",
+  "version": "1.0.0",
+  "main": "dbmodule.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "description": ""
+}
